@@ -1,6 +1,6 @@
 # Aula sobre JavaScript
 
-Neste Stage 05 eu aprendi os seguintes recursos:
+Neste Stage 06 eu aprendi os seguintes recursos:
 - Como usar o JavaScript;
 - Como ligar o JavaScript ao HTML;
 - Como escrever em json.
